@@ -12,7 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.8.3",
+    "express": "^4.21.2",
     "node-telegram-bot-api": "^0.66.0",
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "prom-client": "^15.1.3"
   }
 }
